@@ -1,0 +1,15 @@
+goals for this project
+- become more comfortable with writing cleaner python programs:
+    - this includes functions, test files, quotes
+- working with pygame/other python libraries
+- working with more advanced/more efficient data structures: heaps, hash tables 
+    *stay away from using arrays/linked lists/dictionaries
+- using github/git 
+- using vscode
+- creating/using environments 
+
+pathfinding algorithms:
+- djikstra's algorithm, 
+- A*search, 
+- breath-first search
+- depth-first search
